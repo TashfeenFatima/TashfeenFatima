@@ -8,7 +8,7 @@ I build backend systems, cloud workflows, APIs, and automation for production ap
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/tashfeen-fatima-75a039299/"  target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
