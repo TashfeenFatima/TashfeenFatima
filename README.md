@@ -1,135 +1,146 @@
-<h1 align="center">Hi 👋, I'm Tashfeen Fatima</h1>
-<h3 align="center">Software Developer | Backend, Cloud & Production Systems</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="380"
-src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
+# Hi 👋, I'm Tashfeen Fatima
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tashfeenfatima&label=Profile%20views&color=0e75b6&style=flat"
-       alt="tashfeenfatima" />
+### Software Developer · Backend · Cloud
+
+I build backend systems, cloud workflows, APIs, and automation for production applications.
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:misstashfeenfatima@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## About Me
+
+I'm a software developer focused on **Python, Django, PostgreSQL, and AWS**.
+
+Most of my recent work has involved backend development, cloud-based processing, APIs, database workflows, production debugging, and automation for logistics and customs systems.
+
+I enjoy working on the parts of a system where multiple services come together — tracing data, debugging failures, improving reliability, and making sure the complete workflow behaves correctly.
+
+---
+
+## Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" />
 </p>
 
-- 💻 I work mainly with **Python, Django, PostgreSQL, REST APIs and cloud-based backend systems**
+### Cloud & DevOps
 
-- ☁️ I have hands-on experience with **AWS EC2, S3, Lambda, AWS Batch, ECR, Secrets Manager and Amazon Bedrock**
-
-- 🚀 Recently worked on **logistics and customs automation systems**, including shipment processing, MID validation and regeneration workflows, and production integrations
-
-- 🐳 I work with **Docker, Linux, Git and cloud deployment workflows**
-
-- 🔍 I enjoy **debugging production issues, tracing data across services, API integrations and improving system reliability**
-
-- 🤖 I have also worked on **AI-assisted automation and batch data-processing workflows**
-
-- 💬 Ask me about **Python, Django, AWS, Backend Development, APIs and Cloud**
-
-- 📫 Reach me at **misstashfeenfatima@gmail.com**
-
-<br clear="right"/>
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/tashfeen-fatima" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="Tashfeen Fatima"
-height="30"
-width="40" />
-</a>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Databases
 
-<p align="left">
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
-alt="django" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-alt="postgresql" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
-alt="aws" width="45" height="45"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-alt="docker" width="45" height="45"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-alt="linux" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-alt="javascript" width="40" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-alt="typescript" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-alt="nextjs" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-alt="html5" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-alt="css3" width="40" height="40"/>
-</a>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-alt="bootstrap" width="40" height="40"/>
-</a>
-
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+### Frontend
 
-<p align="left">
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=tashfeenfatima&show_icons=true&locale=en&layout=compact"
-alt="Most Used Languages" />
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
-<p align="left">
-<img
-src="https://github-readme-stats.vercel.app/api?username=tashfeenfatima&show_icons=true&locale=en"
-alt="Tashfeen Fatima's GitHub Stats" />
-</p>
+---
+
+## What I've Worked On
+
+### Temu MID Generator
+
+Worked on a production MID validation and regeneration workflow used for shipment data processing.
+
+The system brings together **Django, AWS S3, Lambda, AWS Batch, Docker, PostgreSQL, and NetCHB** to validate existing MIDs, identify discrepancies, regenerate flagged records, and safely return the processed results.
+
+My work included backend integration, cloud processing, validation logic, failure handling, database workflows, production testing, and troubleshooting.
+
+---
+
+### Shipment App & Unified
+
+Worked across backend, database, and cloud workflows for logistics applications.
+
+My work involved **Django backend development, SQL/database changes, API integration, production issue investigation, end-to-end testing, and regression testing** during system integration and releases.
+
+---
+
+### HTS Description Automation
+
+Worked on Python and AI-assisted batch workflows for generating and validating product descriptions used in customs-classification datasets.
+
+The work focused on scalable processing, output quality, duplicate detection, validation, and preparing structured data for downstream classification.
+
+---
+
+## Other Projects
+
+### Brain Cloud
+AI-powered knowledge management application built with **Next.js, Appwrite, TypeScript, Tailwind CSS, and ShadCN**.
+
+🏆 **1st Place — Hack Revolution 2025**
+
+### MediReach
+Healthcare management platform for patient registration and appointment booking using **MySQL, PHP, HTML, CSS, and Bootstrap**.
+
+🏆 **1st Place — Envisage 2024**
+
+### PodGenie
+AI-powered podcast creation and discovery platform built with **Next.js, Convex, OpenAI, Clerk, ShadCN, and Tailwind CSS**.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=TashfeenFatima&show_icons=true&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=0969da"
+alt="Tashfeen Fatima GitHub Stats" />
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashfeenFatima&layout=compact&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=57606a"
+alt="Tashfeen Fatima Most Used Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+I'm interested in backend development, cloud systems, APIs, automation, and production engineering.
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Tashfeen%20Fatima-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:misstashfeenfatima@gmail.com">
+  <img src="https://img.shields.io/badge/Email-misstashfeenfatima%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+</div>
